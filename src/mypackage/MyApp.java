@@ -1,6 +1,7 @@
 package mypackage;
 
 import net.rim.device.api.ui.UiApplication;
+//this is did in server
 
 /**
  * This class extends the UiApplication class, providing a
